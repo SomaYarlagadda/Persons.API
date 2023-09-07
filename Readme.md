@@ -73,7 +73,7 @@ dotnet run
     * Birthdate can be a ValueObject with checks for date validity i.e. Not in future and than MinValue
     * Death date can be a ValueObject with checks for date validity like Not before birthdate and greater than MinValue
 * Swagger can be improved to show allowed values/formats for user input
-
+* Instead of using AutoValidation from FluentValidation I would opt for pipeline behavior or validating the rules inside Handle method, better yet move them close to the Domain Object if the rules fit there
 ## Authors
 
 Soma Yarlagadda  
