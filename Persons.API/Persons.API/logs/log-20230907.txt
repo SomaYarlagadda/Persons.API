@@ -1,0 +1,34 @@
+2023-09-07 09:47:01.836 -06:00 [INF] Now listening on: https://localhost:7275
+2023-09-07 09:47:01.853 -06:00 [INF] Now listening on: http://localhost:5107
+2023-09-07 09:47:01.856 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-07 09:47:01.858 -06:00 [INF] Hosting environment: Development
+2023-09-07 09:47:01.858 -06:00 [INF] Content root path: D:\Projects\Github\take-home-assignment\Persons.API\Persons.API\
+2023-09-07 09:47:12.049 -06:00 [INF] HTTP GET / responded 404 in 0.2602 ms
+2023-09-07 09:47:16.158 -06:00 [INF] HTTP GET / responded 404 in 0.0099 ms
+2023-09-07 09:47:31.297 -06:00 [INF] HTTP GET / responded 404 in 0.0039 ms
+2023-09-07 09:47:40.902 -06:00 [INF] Retrieving person record for api
+2023-09-07 09:47:40.905 -06:00 [INF] Failed to retrieve person record for api
+2023-09-07 09:47:40.946 -06:00 [INF] HTTP GET /person/api responded 400 in 83.2212 ms
+2023-09-07 09:47:40.999 -06:00 [INF] HTTP GET /favicon.ico responded 404 in 0.0055 ms
+2023-09-07 09:48:59.243 -06:00 [INF] Application is shutting down...
+2023-09-07 09:49:07.337 -06:00 [INF] Now listening on: https://localhost:7275
+2023-09-07 09:49:07.361 -06:00 [INF] Now listening on: http://localhost:5107
+2023-09-07 09:49:07.365 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-07 09:49:07.366 -06:00 [INF] Hosting environment: Development
+2023-09-07 09:49:07.367 -06:00 [INF] Content root path: D:\Projects\Github\take-home-assignment\Persons.API\Persons.API\
+2023-09-07 09:54:27.964 -06:00 [INF] Adding new person record
+2023-09-07 09:54:27.970 -06:00 [INF] Successfully added new person record with bda8d940-9d83-417a-9c69-0bf005362425
+2023-09-07 09:54:28.000 -06:00 [INF] HTTP POST /Person responded 201 in 366.2345 ms
+2023-09-07 10:14:01.354 -06:00 [INF] Adding new person record
+2023-09-07 10:14:01.355 -06:00 [INF] Successfully added new person record with db265e74-584f-4551-97e5-750f68fd23ae
+2023-09-07 10:14:01.356 -06:00 [INF] HTTP POST /Person responded 201 in 48.6863 ms
+2023-09-07 10:14:06.551 -06:00 [INF] HTTP POST /Person responded 400 in 97.8141 ms
+2023-09-07 10:14:16.430 -06:00 [INF] Adding new person record
+2023-09-07 10:14:16.431 -06:00 [INF] Successfully added new person record with a96c7352-96a7-451e-9f18-d0d8789e8f1e
+2023-09-07 10:14:16.432 -06:00 [INF] HTTP POST /Person responded 201 in 14.4839 ms
+2023-09-07 10:24:30.941 -06:00 [INF] Now listening on: https://localhost:7275
+2023-09-07 10:24:30.959 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-07 10:24:30.961 -06:00 [INF] Hosting environment: Development
+2023-09-07 10:24:30.961 -06:00 [INF] Content root path: D:\Projects\Github\take-home-assignment\Persons.API\Persons.API\
+2023-09-07 10:24:40.045 -06:00 [INF] HTTP GET / responded 404 in 0.2658 ms
+2023-09-07 10:25:31.628 -06:00 [INF] Application is shutting down...
